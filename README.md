@@ -1,7 +1,7 @@
 ## Olá! Eu sou Luide
 
-- 🌱 Estudando desenvolvimento de sistemas / desenvolvimento web
-- 😄 Pronomes: ele/dele
+- 🌱 Estudando Desenvolvimento de Sistemas / Desenvolvimento Web Front-End
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/luide19">
