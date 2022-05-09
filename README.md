@@ -1,6 +1,6 @@
 ## Olá! Eu sou Luide
 
-- 🌱 Estudando Desenvolvimento de Sistemas / Desenvolvimento Web Front-End by StartSe Tech Academy
+- 🌱 Estudando Desenvolvimento de Sistemas / Desenvolvimento Web by StartSe Tech Academy
 
 
 <div align="center">
