@@ -1,6 +1,6 @@
 ## Olá! Eu sou Luide
 
-- 🌱 Técnico em Desenvolvimento de Sistemas / Estudando Desenvolvimento Web na StartSe Tech Academy
+- 🌱 Técnico em Desenvolvimento de Sistemas
 
 
 <div align="center">
