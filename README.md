@@ -1,7 +1,7 @@
 ## Olá! Eu sou Luide
 
 - 🌱 Técnico em Desenvolvimento de Sistemas
-- Aprendendo nas horas vagas
+- Aprendendo nas horas vagas :)
 
 
 <div align="center">
