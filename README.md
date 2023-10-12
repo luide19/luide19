@@ -11,5 +11,11 @@
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />   
 </div>
 
-  <hr>
+Me encontre no:
+
+<a href="https://www.linkedin.com/in/luide-santos-de-jesus/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<hr>
   
