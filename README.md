@@ -15,7 +15,7 @@
 
 Me encontre no:
 
-<a target="_blank" href="https://www.linkedin.com/in/luide-santos-de-jesus/">
+<a href="https://www.linkedin.com/in/luide-santos-de-jesus/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
